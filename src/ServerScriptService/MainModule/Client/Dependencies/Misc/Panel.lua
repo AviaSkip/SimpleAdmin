@@ -55,7 +55,7 @@ return function()
 			Value = "Package Developer";
 		},
 		{
-			Key = "aviaskip";
+			Key = "AviaSkip";
 			Value = "Package Developer";
 		},
 		{
